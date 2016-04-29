@@ -23,6 +23,8 @@
 
 module lemmas1 where
 
+infixl 15 !_>₀_ !_>₁_ !_>₂_ !_>₃_
+
 
 open import hsubst
 

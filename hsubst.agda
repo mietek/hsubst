@@ -21,6 +21,8 @@
 
 module hsubst where
 
+infixl 10 _,_
+
 
 -- Simple types
 
